@@ -1,0 +1,2 @@
+[18-Feb-2017 18:50:57 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB\Controller' not found in /home/ubuntu/workspace/Calculadora-de-IMC/app/Http/Controllers/ImcController.php on line 8
+[22-Feb-2017 17:55:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ubuntu/workspace/Calculadora-de-IMC/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 123
